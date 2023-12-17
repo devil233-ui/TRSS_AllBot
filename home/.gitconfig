@@ -1,0 +1,10 @@
+[log]
+	date=format:%F %T
+[core]
+	quotepath=false
+[user]
+	email=Time.Rain.Star.Sky@Gmail.com
+	name=🌌
+[credential]
+	username=
+	helper=!echo password=

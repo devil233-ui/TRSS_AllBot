@@ -1,0 +1,242 @@
+2023-09-29T11:27:42: PM2 log: ===============================================================================
+2023-09-29T11:27:42: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-09-29T11:27:42: PM2 log: Time                 : Fri Sep 29 2023 11:27:42 GMT+0800 (中国标准时间)
+2023-09-29T11:27:42: PM2 log: PM2 version          : 5.3.0
+2023-09-29T11:27:42: PM2 log: Node.js version      : 20.7.0
+2023-09-29T11:27:42: PM2 log: Current arch         : x64
+2023-09-29T11:27:42: PM2 log: PM2 home             : /root/TRSS_AllBot/home/.pm2
+2023-09-29T11:27:42: PM2 log: PM2 PID file         : /root/TRSS_AllBot/home/.pm2/pm2.pid
+2023-09-29T11:27:42: PM2 log: RPC socket file      : /root/TRSS_AllBot/home/.pm2/rpc.sock
+2023-09-29T11:27:42: PM2 log: BUS socket file      : /root/TRSS_AllBot/home/.pm2/pub.sock
+2023-09-29T11:27:42: PM2 log: Application log path : /root/TRSS_AllBot/home/.pm2/logs
+2023-09-29T11:27:42: PM2 log: Worker Interval      : 30000
+2023-09-29T11:27:42: PM2 log: Process dump file    : /root/TRSS_AllBot/home/.pm2/dump.pm2
+2023-09-29T11:27:42: PM2 log: Concurrent actions   : 2
+2023-09-29T11:27:42: PM2 log: SIGTERM timeout      : 1600
+2023-09-29T11:27:42: PM2 log: ===============================================================================
+2023-09-29T11:27:42: PM2 log: App [TRSS-Yunzai:0] starting in -fork mode-
+2023-09-29T11:27:42: PM2 log: App [TRSS-Yunzai:0] online
+2023-09-29T11:27:43: PM2 log: Stopping app:TRSS-Yunzai id:0
+2023-09-29T11:27:43: PM2 log: App [TRSS-Yunzai:0] exited with code [0] via signal [SIGINT]
+2023-09-29T11:27:43: PM2 log: pid=3240 msg=process killed
+2023-09-29T11:27:43: PM2 log: PM2 successfully stopped
+2023-09-29T13:45:51: PM2 log: ===============================================================================
+2023-09-29T13:45:51: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-09-29T13:45:51: PM2 log: Time                 : Fri Sep 29 2023 13:45:51 GMT+0800 (中国标准时间)
+2023-09-29T13:45:51: PM2 log: PM2 version          : 5.3.0
+2023-09-29T13:45:51: PM2 log: Node.js version      : 20.7.0
+2023-09-29T13:45:51: PM2 log: Current arch         : x64
+2023-09-29T13:45:51: PM2 log: PM2 home             : /root/TRSS_AllBot/home/.pm2
+2023-09-29T13:45:51: PM2 log: PM2 PID file         : /root/TRSS_AllBot/home/.pm2/pm2.pid
+2023-09-29T13:45:51: PM2 log: RPC socket file      : /root/TRSS_AllBot/home/.pm2/rpc.sock
+2023-09-29T13:45:51: PM2 log: BUS socket file      : /root/TRSS_AllBot/home/.pm2/pub.sock
+2023-09-29T13:45:51: PM2 log: Application log path : /root/TRSS_AllBot/home/.pm2/logs
+2023-09-29T13:45:51: PM2 log: Worker Interval      : 30000
+2023-09-29T13:45:51: PM2 log: Process dump file    : /root/TRSS_AllBot/home/.pm2/dump.pm2
+2023-09-29T13:45:51: PM2 log: Concurrent actions   : 2
+2023-09-29T13:45:51: PM2 log: SIGTERM timeout      : 1600
+2023-09-29T13:45:51: PM2 log: ===============================================================================
+2023-09-29T13:45:51: PM2 log: App [TRSS-Yunzai:0] starting in -fork mode-
+2023-09-29T13:45:51: PM2 log: App [TRSS-Yunzai:0] online
+2023-09-29T13:45:51: PM2 log: Stopping app:TRSS-Yunzai id:0
+2023-09-29T13:45:51: PM2 log: App [TRSS-Yunzai:0] exited with code [0] via signal [SIGINT]
+2023-09-29T13:45:51: PM2 log: pid=4160 msg=process killed
+2023-09-29T13:45:51: PM2 log: PM2 successfully stopped
+2023-09-29T16:32:55: PM2 log: ===============================================================================
+2023-09-29T16:32:55: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-09-29T16:32:55: PM2 log: Time                 : Fri Sep 29 2023 16:32:55 GMT+0800 (中国标准时间)
+2023-09-29T16:32:55: PM2 log: PM2 version          : 5.3.0
+2023-09-29T16:32:55: PM2 log: Node.js version      : 20.7.0
+2023-09-29T16:32:55: PM2 log: Current arch         : x64
+2023-09-29T16:32:55: PM2 log: PM2 home             : /root/TRSS_AllBot/home/.pm2
+2023-09-29T16:32:55: PM2 log: PM2 PID file         : /root/TRSS_AllBot/home/.pm2/pm2.pid
+2023-09-29T16:32:55: PM2 log: RPC socket file      : /root/TRSS_AllBot/home/.pm2/rpc.sock
+2023-09-29T16:32:55: PM2 log: BUS socket file      : /root/TRSS_AllBot/home/.pm2/pub.sock
+2023-09-29T16:32:55: PM2 log: Application log path : /root/TRSS_AllBot/home/.pm2/logs
+2023-09-29T16:32:55: PM2 log: Worker Interval      : 30000
+2023-09-29T16:32:55: PM2 log: Process dump file    : /root/TRSS_AllBot/home/.pm2/dump.pm2
+2023-09-29T16:32:55: PM2 log: Concurrent actions   : 2
+2023-09-29T16:32:55: PM2 log: SIGTERM timeout      : 1600
+2023-09-29T16:32:55: PM2 log: ===============================================================================
+2023-09-29T16:32:55: PM2 log: App [TRSS-Yunzai:0] starting in -fork mode-
+2023-09-29T16:32:55: PM2 log: App [TRSS-Yunzai:0] online
+2023-09-29T16:32:56: PM2 log: Stopping app:TRSS-Yunzai id:0
+2023-09-29T16:32:56: PM2 log: App [TRSS-Yunzai:0] exited with code [0] via signal [SIGINT]
+2023-09-29T16:32:56: PM2 log: pid=153346 msg=process killed
+2023-09-29T16:32:56: PM2 log: PM2 successfully stopped
+2023-09-29T16:55:48: PM2 log: ===============================================================================
+2023-09-29T16:55:48: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-09-29T16:55:48: PM2 log: Time                 : Fri Sep 29 2023 16:55:48 GMT+0800 (中国标准时间)
+2023-09-29T16:55:48: PM2 log: PM2 version          : 5.3.0
+2023-09-29T16:55:48: PM2 log: Node.js version      : 20.7.0
+2023-09-29T16:55:48: PM2 log: Current arch         : x64
+2023-09-29T16:55:48: PM2 log: PM2 home             : /root/TRSS_AllBot/home/.pm2
+2023-09-29T16:55:48: PM2 log: PM2 PID file         : /root/TRSS_AllBot/home/.pm2/pm2.pid
+2023-09-29T16:55:48: PM2 log: RPC socket file      : /root/TRSS_AllBot/home/.pm2/rpc.sock
+2023-09-29T16:55:48: PM2 log: BUS socket file      : /root/TRSS_AllBot/home/.pm2/pub.sock
+2023-09-29T16:55:48: PM2 log: Application log path : /root/TRSS_AllBot/home/.pm2/logs
+2023-09-29T16:55:48: PM2 log: Worker Interval      : 30000
+2023-09-29T16:55:48: PM2 log: Process dump file    : /root/TRSS_AllBot/home/.pm2/dump.pm2
+2023-09-29T16:55:48: PM2 log: Concurrent actions   : 2
+2023-09-29T16:55:48: PM2 log: SIGTERM timeout      : 1600
+2023-09-29T16:55:48: PM2 log: ===============================================================================
+2023-09-29T16:55:48: PM2 log: App [TRSS-Yunzai:0] starting in -fork mode-
+2023-09-29T16:55:48: PM2 log: App [TRSS-Yunzai:0] online
+2023-09-29T16:55:49: PM2 log: Stopping app:TRSS-Yunzai id:0
+2023-09-29T16:55:49: PM2 log: App [TRSS-Yunzai:0] exited with code [0] via signal [SIGINT]
+2023-09-29T16:55:49: PM2 log: pid=174693 msg=process killed
+2023-09-29T16:55:49: PM2 log: PM2 successfully stopped
+2023-09-30T20:13:35: PM2 log: ===============================================================================
+2023-09-30T20:13:35: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-09-30T20:13:35: PM2 log: Time                 : Sat Sep 30 2023 20:13:35 GMT+0800 (中国标准时间)
+2023-09-30T20:13:35: PM2 log: PM2 version          : 5.3.0
+2023-09-30T20:13:35: PM2 log: Node.js version      : 20.7.0
+2023-09-30T20:13:35: PM2 log: Current arch         : x64
+2023-09-30T20:13:35: PM2 log: PM2 home             : /root/TRSS_AllBot/home/.pm2
+2023-09-30T20:13:35: PM2 log: PM2 PID file         : /root/TRSS_AllBot/home/.pm2/pm2.pid
+2023-09-30T20:13:35: PM2 log: RPC socket file      : /root/TRSS_AllBot/home/.pm2/rpc.sock
+2023-09-30T20:13:35: PM2 log: BUS socket file      : /root/TRSS_AllBot/home/.pm2/pub.sock
+2023-09-30T20:13:35: PM2 log: Application log path : /root/TRSS_AllBot/home/.pm2/logs
+2023-09-30T20:13:35: PM2 log: Worker Interval      : 30000
+2023-09-30T20:13:35: PM2 log: Process dump file    : /root/TRSS_AllBot/home/.pm2/dump.pm2
+2023-09-30T20:13:35: PM2 log: Concurrent actions   : 2
+2023-09-30T20:13:35: PM2 log: SIGTERM timeout      : 1600
+2023-09-30T20:13:35: PM2 log: ===============================================================================
+2023-09-30T20:13:35: PM2 log: App [TRSS-Yunzai:0] starting in -fork mode-
+2023-09-30T20:13:35: PM2 log: App [TRSS-Yunzai:0] online
+2023-09-30T20:13:36: PM2 log: Stopping app:TRSS-Yunzai id:0
+2023-09-30T20:13:36: PM2 log: App [TRSS-Yunzai:0] exited with code [0] via signal [SIGINT]
+2023-09-30T20:13:36: PM2 log: pid=1333925 msg=process killed
+2023-09-30T20:13:36: PM2 log: PM2 successfully stopped
+2023-10-01T16:45:22: PM2 log: ===============================================================================
+2023-10-01T16:45:22: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-10-01T16:45:22: PM2 log: Time                 : Sun Oct 01 2023 16:45:22 GMT+0800 (中国标准时间)
+2023-10-01T16:45:22: PM2 log: PM2 version          : 5.3.0
+2023-10-01T16:45:22: PM2 log: Node.js version      : 20.7.0
+2023-10-01T16:45:22: PM2 log: Current arch         : x64
+2023-10-01T16:45:22: PM2 log: PM2 home             : /root/TRSS_AllBot/home/.pm2
+2023-10-01T16:45:22: PM2 log: PM2 PID file         : /root/TRSS_AllBot/home/.pm2/pm2.pid
+2023-10-01T16:45:22: PM2 log: RPC socket file      : /root/TRSS_AllBot/home/.pm2/rpc.sock
+2023-10-01T16:45:22: PM2 log: BUS socket file      : /root/TRSS_AllBot/home/.pm2/pub.sock
+2023-10-01T16:45:22: PM2 log: Application log path : /root/TRSS_AllBot/home/.pm2/logs
+2023-10-01T16:45:22: PM2 log: Worker Interval      : 30000
+2023-10-01T16:45:22: PM2 log: Process dump file    : /root/TRSS_AllBot/home/.pm2/dump.pm2
+2023-10-01T16:45:22: PM2 log: Concurrent actions   : 2
+2023-10-01T16:45:22: PM2 log: SIGTERM timeout      : 1600
+2023-10-01T16:45:22: PM2 log: ===============================================================================
+2023-10-01T16:45:22: PM2 log: App [TRSS-Yunzai:0] starting in -fork mode-
+2023-10-01T16:45:22: PM2 log: App [TRSS-Yunzai:0] online
+2023-10-01T16:45:22: PM2 log: Stopping app:TRSS-Yunzai id:0
+2023-10-01T16:45:22: PM2 log: App [TRSS-Yunzai:0] exited with code [0] via signal [SIGINT]
+2023-10-01T16:45:23: PM2 log: pid=2251019 msg=process killed
+2023-10-01T16:45:23: PM2 log: PM2 successfully stopped
+2023-10-07T00:15:00: PM2 log: ===============================================================================
+2023-10-07T00:15:00: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-10-07T00:15:00: PM2 log: Time                 : Sat Oct 07 2023 00:15:00 GMT+0800 (中国标准时间)
+2023-10-07T00:15:00: PM2 log: PM2 version          : 5.3.0
+2023-10-07T00:15:00: PM2 log: Node.js version      : 20.7.0
+2023-10-07T00:15:00: PM2 log: Current arch         : x64
+2023-10-07T00:15:00: PM2 log: PM2 home             : /root/TRSS_AllBot/home/.pm2
+2023-10-07T00:15:00: PM2 log: PM2 PID file         : /root/TRSS_AllBot/home/.pm2/pm2.pid
+2023-10-07T00:15:00: PM2 log: RPC socket file      : /root/TRSS_AllBot/home/.pm2/rpc.sock
+2023-10-07T00:15:00: PM2 log: BUS socket file      : /root/TRSS_AllBot/home/.pm2/pub.sock
+2023-10-07T00:15:00: PM2 log: Application log path : /root/TRSS_AllBot/home/.pm2/logs
+2023-10-07T00:15:00: PM2 log: Worker Interval      : 30000
+2023-10-07T00:15:00: PM2 log: Process dump file    : /root/TRSS_AllBot/home/.pm2/dump.pm2
+2023-10-07T00:15:00: PM2 log: Concurrent actions   : 2
+2023-10-07T00:15:00: PM2 log: SIGTERM timeout      : 1600
+2023-10-07T00:15:00: PM2 log: ===============================================================================
+2023-10-07T00:15:00: PM2 log: App [TRSS-Yunzai:0] starting in -fork mode-
+2023-10-07T00:15:00: PM2 log: App [TRSS-Yunzai:0] online
+2023-10-07T00:15:00: PM2 log: Stopping app:TRSS-Yunzai id:0
+2023-10-07T00:15:00: PM2 log: App [TRSS-Yunzai:0] exited with code [0] via signal [SIGINT]
+2023-10-07T00:15:01: PM2 log: pid=3732338 msg=process killed
+2023-10-07T00:15:01: PM2 log: PM2 successfully stopped
+2023-10-31T21:08:39: PM2 log: ===============================================================================
+2023-10-31T21:08:39: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-10-31T21:08:39: PM2 log: Time                 : Tue Oct 31 2023 21:08:39 GMT+0800 (中国标准时间)
+2023-10-31T21:08:39: PM2 log: PM2 version          : 5.3.0
+2023-10-31T21:08:39: PM2 log: Node.js version      : 20.7.0
+2023-10-31T21:08:39: PM2 log: Current arch         : x64
+2023-10-31T21:08:39: PM2 log: PM2 home             : /root/TRSS_AllBot/home/.pm2
+2023-10-31T21:08:39: PM2 log: PM2 PID file         : /root/TRSS_AllBot/home/.pm2/pm2.pid
+2023-10-31T21:08:39: PM2 log: RPC socket file      : /root/TRSS_AllBot/home/.pm2/rpc.sock
+2023-10-31T21:08:39: PM2 log: BUS socket file      : /root/TRSS_AllBot/home/.pm2/pub.sock
+2023-10-31T21:08:39: PM2 log: Application log path : /root/TRSS_AllBot/home/.pm2/logs
+2023-10-31T21:08:39: PM2 log: Worker Interval      : 30000
+2023-10-31T21:08:39: PM2 log: Process dump file    : /root/TRSS_AllBot/home/.pm2/dump.pm2
+2023-10-31T21:08:39: PM2 log: Concurrent actions   : 2
+2023-10-31T21:08:39: PM2 log: SIGTERM timeout      : 1600
+2023-10-31T21:08:39: PM2 log: ===============================================================================
+2023-10-31T21:08:39: PM2 log: App [TRSS-Yunzai:0] starting in -fork mode-
+2023-10-31T21:08:39: PM2 log: App [TRSS-Yunzai:0] online
+2023-10-31T21:08:40: PM2 log: Stopping app:TRSS-Yunzai id:0
+2023-10-31T21:08:40: PM2 log: App [TRSS-Yunzai:0] exited with code [0] via signal [SIGINT]
+2023-10-31T21:08:40: PM2 log: pid=750796 msg=process killed
+2023-10-31T21:08:40: PM2 log: PM2 successfully stopped
+2023-11-19T02:00:30: PM2 log: ===============================================================================
+2023-11-19T02:00:30: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-19T02:00:30: PM2 log: Time                 : Sun Nov 19 2023 02:00:30 GMT+0800 (中国标准时间)
+2023-11-19T02:00:30: PM2 log: PM2 version          : 5.3.0
+2023-11-19T02:00:30: PM2 log: Node.js version      : 20.7.0
+2023-11-19T02:00:30: PM2 log: Current arch         : x64
+2023-11-19T02:00:30: PM2 log: PM2 home             : /root/TRSS_AllBot/home/.pm2
+2023-11-19T02:00:30: PM2 log: PM2 PID file         : /root/TRSS_AllBot/home/.pm2/pm2.pid
+2023-11-19T02:00:30: PM2 log: RPC socket file      : /root/TRSS_AllBot/home/.pm2/rpc.sock
+2023-11-19T02:00:30: PM2 log: BUS socket file      : /root/TRSS_AllBot/home/.pm2/pub.sock
+2023-11-19T02:00:30: PM2 log: Application log path : /root/TRSS_AllBot/home/.pm2/logs
+2023-11-19T02:00:30: PM2 log: Worker Interval      : 30000
+2023-11-19T02:00:30: PM2 log: Process dump file    : /root/TRSS_AllBot/home/.pm2/dump.pm2
+2023-11-19T02:00:30: PM2 log: Concurrent actions   : 2
+2023-11-19T02:00:30: PM2 log: SIGTERM timeout      : 1600
+2023-11-19T02:00:30: PM2 log: ===============================================================================
+2023-11-19T02:00:30: PM2 log: App [TRSS-Yunzai:0] starting in -fork mode-
+2023-11-19T02:00:30: PM2 log: App [TRSS-Yunzai:0] online
+2023-11-19T02:00:31: PM2 log: Stopping app:TRSS-Yunzai id:0
+2023-11-19T02:00:31: PM2 log: App [TRSS-Yunzai:0] exited with code [0] via signal [SIGINT]
+2023-11-19T02:00:31: PM2 log: pid=3684884 msg=process killed
+2023-11-19T02:00:31: PM2 log: PM2 successfully stopped
+2023-11-21T13:45:57: PM2 log: ===============================================================================
+2023-11-21T13:45:57: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-21T13:45:57: PM2 log: Time                 : Tue Nov 21 2023 13:45:57 GMT+0800 (中国标准时间)
+2023-11-21T13:45:57: PM2 log: PM2 version          : 5.3.0
+2023-11-21T13:45:57: PM2 log: Node.js version      : 20.7.0
+2023-11-21T13:45:57: PM2 log: Current arch         : x64
+2023-11-21T13:45:57: PM2 log: PM2 home             : /root/TRSS_AllBot/home/.pm2
+2023-11-21T13:45:57: PM2 log: PM2 PID file         : /root/TRSS_AllBot/home/.pm2/pm2.pid
+2023-11-21T13:45:57: PM2 log: RPC socket file      : /root/TRSS_AllBot/home/.pm2/rpc.sock
+2023-11-21T13:45:57: PM2 log: BUS socket file      : /root/TRSS_AllBot/home/.pm2/pub.sock
+2023-11-21T13:45:57: PM2 log: Application log path : /root/TRSS_AllBot/home/.pm2/logs
+2023-11-21T13:45:57: PM2 log: Worker Interval      : 30000
+2023-11-21T13:45:57: PM2 log: Process dump file    : /root/TRSS_AllBot/home/.pm2/dump.pm2
+2023-11-21T13:45:57: PM2 log: Concurrent actions   : 2
+2023-11-21T13:45:57: PM2 log: SIGTERM timeout      : 1600
+2023-11-21T13:45:57: PM2 log: ===============================================================================
+2023-11-21T13:45:57: PM2 log: App [TRSS-Yunzai:0] starting in -fork mode-
+2023-11-21T13:45:57: PM2 log: App [TRSS-Yunzai:0] online
+2023-11-21T13:45:58: PM2 log: Stopping app:TRSS-Yunzai id:0
+2023-11-21T13:45:58: PM2 log: App [TRSS-Yunzai:0] exited with code [0] via signal [SIGINT]
+2023-11-21T13:45:58: PM2 log: pid=2172855 msg=process killed
+2023-11-21T13:45:58: PM2 log: PM2 successfully stopped
+2023-11-23T18:09:08: PM2 log: ===============================================================================
+2023-11-23T18:09:08: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2023-11-23T18:09:08: PM2 log: Time                 : Thu Nov 23 2023 18:09:08 GMT+0800 (中国标准时间)
+2023-11-23T18:09:08: PM2 log: PM2 version          : 5.3.0
+2023-11-23T18:09:08: PM2 log: Node.js version      : 20.7.0
+2023-11-23T18:09:08: PM2 log: Current arch         : x64
+2023-11-23T18:09:08: PM2 log: PM2 home             : /root/TRSS_AllBot/home/.pm2
+2023-11-23T18:09:08: PM2 log: PM2 PID file         : /root/TRSS_AllBot/home/.pm2/pm2.pid
+2023-11-23T18:09:08: PM2 log: RPC socket file      : /root/TRSS_AllBot/home/.pm2/rpc.sock
+2023-11-23T18:09:08: PM2 log: BUS socket file      : /root/TRSS_AllBot/home/.pm2/pub.sock
+2023-11-23T18:09:08: PM2 log: Application log path : /root/TRSS_AllBot/home/.pm2/logs
+2023-11-23T18:09:08: PM2 log: Worker Interval      : 30000
+2023-11-23T18:09:08: PM2 log: Process dump file    : /root/TRSS_AllBot/home/.pm2/dump.pm2
+2023-11-23T18:09:08: PM2 log: Concurrent actions   : 2
+2023-11-23T18:09:08: PM2 log: SIGTERM timeout      : 1600
+2023-11-23T18:09:08: PM2 log: ===============================================================================
+2023-11-23T18:09:08: PM2 log: App [TRSS-Yunzai:0] starting in -fork mode-
+2023-11-23T18:09:08: PM2 log: App [TRSS-Yunzai:0] online
+2023-11-23T18:09:09: PM2 log: Stopping app:TRSS-Yunzai id:0
+2023-11-23T18:09:09: PM2 log: App [TRSS-Yunzai:0] exited with code [0] via signal [SIGINT]
+2023-11-23T18:09:09: PM2 log: pid=269883 msg=process killed
+2023-11-23T18:09:09: PM2 log: PM2 successfully stopped
